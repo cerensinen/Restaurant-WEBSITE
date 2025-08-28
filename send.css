@@ -1,0 +1,39 @@
+body {
+    background-color: #ecdcdc;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    color: #73a94f;  
+    font-weight: bold;
+    font-size: 32px;
+
+}
+
+p {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #43543e;
+    line-height: 1.6;
+    font-style: italic;
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 16px;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #4680a4d5;
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: #8094a3b1;
+    color: #ffffff;
+}
